@@ -2,7 +2,11 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content/TwinmotionMaterials
+Content/TwinmotionMaterials/LevelContent
+Content/TwinmotionMaterials/Levels
+Content/TwinmotionMaterials/Materials/*
+!/Content/TwinmotionMaterials/Materials/Ceilings
+!/Content/TwinmotionMaterials/Materials/Emissive
 Content/STF
 .vscode
 .vs
